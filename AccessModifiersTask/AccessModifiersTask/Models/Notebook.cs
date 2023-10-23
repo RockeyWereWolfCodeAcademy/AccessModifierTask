@@ -40,7 +40,7 @@ namespace AccessModifiersTask.Models
             get => _ram;
             set
             {
-                if (value < 0 && value > 128)
+                if (value < 0 || value > 128)
                 {
                     Console.WriteLine("RAM size must be a positive number lesser than 128");
                 }
