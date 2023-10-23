@@ -1,0 +1,14 @@
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.exe
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.deps.json
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.runtimeconfig.json
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.dll
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.pdb
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.AssemblyInfoInputs.cache
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.AssemblyInfo.cs
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.csproj.CoreCompileInputs.cache
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.dll
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\refint\AccessModifiersTask.dll
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.pdb
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.genruntimeconfig.cache
+C:\Users\User\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\ref\AccessModifiersTask.dll
