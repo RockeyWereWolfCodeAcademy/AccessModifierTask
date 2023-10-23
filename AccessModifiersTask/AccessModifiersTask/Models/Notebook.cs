@@ -18,7 +18,7 @@ namespace AccessModifiersTask.Models
             get => _model;
             set
             {
-                if (value.Length < 3 && value.Length > 30)
+                if (value.Length < 3 || value.Length > 30)
                 {
                     Console.WriteLine("Model name must be greater than 3 but lesser than 30");
                 }
